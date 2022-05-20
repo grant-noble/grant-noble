@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @grant-noble
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on projects for practice
+- 📫 How to reach me email me grant@grantnoble.net
